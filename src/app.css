@@ -43,27 +43,28 @@
   box-shadow: 0 4px 5px 0 rgb(0 0 0 / 10%);
 }
 
-.task h3 {
+/* .task h3 {
   font-size: 18px;
-  color: #c8781a;
-}
+  color: #c8781a; 
+} */
 
-.task p {
+/* .task p {
   padding: 0.5rem 0 0.75rem;
   font-size: 14px;
   color: #444;
-}
+} */
 
+/* 
 .task button {
   display: block;
-  padding: 8px 12px;
+  padding: 8px 12px ;
   margin-left: auto;
   background-color: #fecc91;
   box-shadow: 0 4px 5px 0 rgb(0 0 0 / 5%);
   border-radius: 3px;
   border: 0;
   cursor: pointer;
-}
+} */
 
 .pill {
   display: inline-block;
@@ -87,10 +88,10 @@
 }
 
 .normal {
-  background-color: #ffd9d4;
+  background-color: #d4d7ff;
 }
 .urgent {
-  background-color: #d4d7ff;
+  background-color: #ffd9d4;
 }
 /* TASK */
 
